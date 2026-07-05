@@ -152,55 +152,62 @@ These challenges provided valuable experience in adapting to the latest AWS serv
 
 ### 1. Amazon S3 Bucket Configuration
 
-![Amazon S3 Bucket](Screenshots/S3_bucket.png)
+![Amazon S3 Bucket](Screenshorts\S3_bucket.png)
 
 ---
 
 ### 2. CloudFront Distribution
 
-![CloudFront Distribution](Screenshots/cloudfront.png)
+![CloudFront Distribution](Screenshorts\cloudfront.png)
 
 ---
 
 ### 3. CloudFront Configuration
 
-![CloudFront Configuration](Screenshots/cloudfront2.png)
+![CloudFront Configuration](Screenshorts\cloudfront2.png)
 
 ---
 
 ### 4. AWS Certificate Manager
 
-![AWS Certificate Manager](Screenshots/certificate_manager.png)
+![AWS Certificate Manager](Screenshorts\certificate_manager.png)
+
 
 ---
 
 ### 5. SSL Certificate Issued
 
-![SSL Certificate Issued](Screenshots/certificate_manager2.png)
+![SSL Certificate Issued](Screenshorts\certificate_manager2.png)
 
 ---
 
 ### 6. AWS CodePipeline
 
-![AWS CodePipeline](Screenshots/pipeline.png)
+![AWS CodePipeline](Screenshorts\pipeline.png)
 
 ---
 
 ### 7. Pipeline After GitHub Commit
 
-![Pipeline After Commit](Screenshots/pipeline_after_commit_changes.png)
+![Pipeline After Commit](Screenshorts\pipeline_after_commit_changes.png)
 
 ---
 
 ### 8. GitHub Commit
 
-![GitHub Commit](Screenshots/commit_changes.png)
+![GitHub Commit](Screenshorts\commit_changes.png)
 
 ---
 
 ### 9. Website Hosted on CloudFront
 
-![Website Hosted on CloudFront](Screenshots/host_on_CF.png)
+![Execution details](Screenshorts\cicd.png)
+
+---
+
+### 10. Website Hosted on CloudFront
+
+![Website Hosted on CloudFront](Screenshorts\host_on_CF.png)
 
 
 ---
