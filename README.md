@@ -34,22 +34,25 @@ Instead of hosting the website on a traditional web server, it is deployed using
           Private Amazon S3 Bucket
          (HTML, CSS, JS, Images)
 
-Developer
-     │
-     ▼
- GitHub Repository
-     │
-     ▼
- AWS CodePipeline
-     │
-     ▼
- Amazon S3
-     │
-     ▼
- CloudFront
-     │
-     ▼
- Live Website
+
+
+
+                Developer
+                    │
+                    ▼
+                GitHub Repository
+                    │
+                    ▼
+                AWS CodePipeline
+                    │
+                    ▼
+                Amazon S3
+                    │
+                    ▼
+                CloudFront
+                    │
+                    ▼
+                Live Website
 ```
 
 ---
@@ -145,11 +148,35 @@ These challenges provided valuable experience in adapting to the latest AWS serv
 
 ---
 
-## Screenshots
+## Output
+
+<details>
+<summary>View Project Screenshots</summary>
+
+### Amazon S3 Bucket
+
+<img src="Screenshots/S3_bucket.png">
+
+### CloudFront
+
+<img src="Screenshots/cloudfront.png">
+
+### ACM
+
+<img src="Screenshots/certificate_manager.png">
+
+### CodePipeline
+
+<img src="Screenshots/pipeline.png">
+
+### Live Website
+
+<img src="Screenshots/host_on_CF.png">
+
+</details>
 
 
-
-
+---
 
 ## Learning Outcomes
 
