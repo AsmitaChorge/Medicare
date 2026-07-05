@@ -150,31 +150,77 @@ These challenges provided valuable experience in adapting to the latest AWS serv
 
 ## Output
 
-<details>
-<summary>View Project Screenshots</summary>
+## Project Screenshots
 
-### Amazon S3 Bucket
+### 1. Amazon S3 Bucket Configuration
 
-<img src="Screenshots/S3_bucket.png">
+<p align="center">
+  <img src="Screenshots/S3_bucket.png" width="900">
+</p>
 
-### CloudFront
+---
 
-<img src="Screenshots/cloudfront.png">
+### 2. CloudFront Distribution
 
-### ACM
+<p align="center">
+  <img src="Screenshots/cloudfront.png" width="900">
+</p>
 
-<img src="Screenshots/certificate_manager.png">
+---
 
-### CodePipeline
+### 3. CloudFront Configuration
 
-<img src="Screenshots/pipeline.png">
+<p align="center">
+  <img src="Screenshots/cloudfront2.png" width="900">
+</p>
 
-### Live Website
+---
 
-<img src="Screenshots/host_on_CF.png">
+### 4. AWS Certificate Manager
 
-</details>
+<p align="center">
+  <img src="Screenshots/certificate_manager.png" width="900">
+</p>
 
+---
+
+### 5. SSL Certificate Issued
+
+<p align="center">
+  <img src="Screenshots/certificate_manager2.png" width="900">
+</p>
+
+---
+
+### 6. AWS CodePipeline
+
+<p align="center">
+  <img src="Screenshots/pipeline.png" width="900">
+</p>
+
+---
+
+### 7. Pipeline After Commit
+
+<p align="center">
+  <img src="Screenshots/pipeline_after_commit_changes.png" width="900">
+</p>
+
+---
+
+### 8. Commit Changes to GitHub
+
+<p align="center">
+  <img src="Screenshots/commit_changes.png" width="900">
+</p>
+
+---
+
+### 9. Website Hosted on CloudFront
+
+<p align="center">
+  <img src="Screenshots/host_on_CF.png" width="900">
+</p>
 
 ---
 
