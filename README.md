@@ -150,65 +150,7 @@ These challenges provided valuable experience in adapting to the latest AWS serv
 
 ## Screenshots
 
-### 1. Amazon S3 Bucket Configuration
-
-![Amazon S3 Bucket](Screenshorts\S3_bucket.png)
-
----
-
-### 2. CloudFront Distribution
-
-![CloudFront Distribution](Screenshorts\cloudfront.png)
-
----
-
-### 3. CloudFront Configuration
-
-![CloudFront Configuration](Screenshorts\cloudfront2.png)
-
----
-
-### 4. AWS Certificate Manager
-
-![AWS Certificate Manager](Screenshorts\certificate_manager.png)
-
-
----
-
-### 5. SSL Certificate Issued
-
-![SSL Certificate Issued](Screenshorts\certificate_manager2.png)
-
----
-
-### 6. AWS CodePipeline
-
-![AWS CodePipeline](Screenshorts\pipeline.png)
-
----
-
-### 7. Pipeline After GitHub Commit
-
-![Pipeline After Commit](Screenshorts\pipeline_after_commit_changes.png)
-
----
-
-### 8. GitHub Commit
-
-![GitHub Commit](Screenshorts\commit_changes.png)
-
----
-
-### 9. Website Hosted on CloudFront
-
-![Execution details](Screenshorts\cicd.png)
-
----
-
-### 10. Website Hosted on CloudFront
-
-![Website Hosted on CloudFront](Screenshorts\host_on_CF.png)
-
+All project screenshots are available in the **Screenshots** folder.
 
 ---
 
